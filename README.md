@@ -5,7 +5,7 @@ against common authentication, authorization, business-logic and API
 security risks.
 
 ## Objective
-
+ 
 The objective is to demonstrate a structured methodology for identifying,
 validating and documenting security weaknesses in REST APIs.
 
