@@ -4,7 +4,7 @@ A practical API security testing project focused on assessing RESTful APIs
 against common authentication, authorization, business-logic and API
 security risks.
 
-## Objective.      
+## Objective.       
  
 The objective is to demonstrate a structured methodology for identifying,
 validating and documenting security weaknesses in REST APIs.
